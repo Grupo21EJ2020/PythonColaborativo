@@ -26,10 +26,6 @@ elif opcion ==4:
 elif opcion ==6:
     print ("Eligio los pasatiempos del usuario 6")    
 elif opcion ==5:
-<<<<<<< HEAD
-    print("Eligio los pasatiempos del usuario 6")
-=======
     print("Eligio los pasatiempos del usuario 6")
 elif opcion ==8:
     print ("Eligio los pasatiempos del usuario 8")  
->>>>>>> 661134298b4ae021116e168fa5b77aa66e5f19a9
