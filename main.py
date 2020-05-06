@@ -16,7 +16,7 @@ print("14.-Pasatiempos de Israel391")
 print("15.-Pasatiempos de Juan Nacianceno21")
 print("16.-Pasatiempos de 29Daniel29Siller")
 print("17.-Pasatiempos de ThomasMedina01")
-
+print("18.-Pasatiempos de Andres-Delgado0")
 
 
 opcion = int(input("Elige una opcion"))
@@ -55,4 +55,6 @@ elif opcion ==16:
      print("Eligio los pasatiempos del usuario 16")
 elif opcion ==17:
     print("Eligio los pasatiempos del usuario 17")
+elif opcion == 18:
+    print("Eligio los pasatiempos del usuario 18") 
 
