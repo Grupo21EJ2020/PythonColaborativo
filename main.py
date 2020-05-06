@@ -5,9 +5,9 @@ print("3.-Pasatiempos de DenilsonIslas")
 print("4.-Pasatiempos otro alumno")
 print("5.-Pasatiempos de DanielCruz2906")
 print("6.-Pasatiempo de Emmanuelk3")
+print("8.- Pasatiempo de MarianoAbimael")
 print("9.-Pasatiempo de pb1598")
 
-print("8.- Pasatiempo de MarianoAbimael")
 opcion = int(input("Elige una opcion"))
 
 if opcion == 1:
