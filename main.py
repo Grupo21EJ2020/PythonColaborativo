@@ -8,3 +8,7 @@ if opcion == 1:
 elif opcion == 2:
     print("Eligio los pasatiempos del usuario 2")
 
+elif opcion ==3:
+    print ("Eligio los pasatiempos del usuario 3")
+elif opcion ==4:
+    print ("Eligio los pasatiempos del usuario 4")
