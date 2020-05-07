@@ -48,6 +48,6 @@ elif opcion ==14:
     print("Eligio los pasatiempos del usuario 14")
 elif opcion ==15:
     print("Eligio los pasatiempos del usuario 15")
-elif opcion ==22:
-    print("Eligio los pasatiempos del usuario 22")
+elif opcion ==16:
+    print("Eligio los pasatiempos del usuario 16")
 
