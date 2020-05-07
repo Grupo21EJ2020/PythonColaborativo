@@ -14,7 +14,7 @@ print("12.-Pasatiempos de AlejandraA07")
 print("13.-Pasatiempos de JairTG02")
 print("14.-Pasatiempos de Israel391")
 print("15.-Pasatiempos de Juan Nacianceno21")
-print("22.-Pasatiempos de Otro Alumno")
+print("16.-Pasatiempos de Otro Alumno")
 
 opcion = int(input("Elige una opcion"))
 
