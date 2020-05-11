@@ -6,8 +6,6 @@ from jairtg02 import JairTG02
 from liigabriel import Liigabriel             
 from marianoabimael import Marianoabimael
 from TheOmarNajera import TheOmarNajera   
-from liigabriel import Liigabriel
-from marianoabimael import Marianoabimael
 from israel391 import Israel391
 from antoniogzz90 import AntonioGzz90
 from danielcruz2906 import Danielcruz2906
@@ -52,7 +50,7 @@ elif opcion == 4:
     print("Eligio los pasatiempos del otro alumno")
 elif opcion ==5:
     objetoPasatiempo = Danielcruz2906()
-    objetoPasatiempo.imprimirPasatiempos();
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==6:
     print("Eligio los pasatiempos del usuario 6")
 elif opcion ==7:   
@@ -72,16 +70,16 @@ elif opcion ==12:
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==13:
     objetoPasatiempo = JairTG02()
-    objetoPasatiempo.imprimirPasatiempos()
+    objetoPasatiempo.imprimirpasatiempos()
 elif opcion ==14:
     objetoPasatiempo = Israel391()
-    objetoPasatiempo.imprimirPasatiempos()
+    objetoPasatiempo.Imprimirpasatiempos()
 elif opcion ==15:
     print("Eligio los pasatiempos del usuario 15")
 elif opcion ==16:
     print("Eligio los pasatiempos del usuario 16")
 elif opcion ==17:
-    print("Eligio los pasatiempos del usuario 17") 1
+    print("Eligio los pasatiempos del usuario 17")
 elif opcion ==18:
     print("Eligio los pasatiempos del usuario 18")
 elif opcion ==19:
@@ -96,10 +94,3 @@ elif opcion ==22:
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==23:
     print("Eligio los pasatiempos del usuario 23")
-
-
-
-
-
-
-
