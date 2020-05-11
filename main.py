@@ -1,6 +1,13 @@
 from pb1598 import Pb1598
+from denilsonislas import DenilsonIslas
+from liigabriel import Liigabriel 
+from jairtg02 import JairTG02             
+from liigabriel import Liigabriel             
+from marianoabimael import Marianoabimael
+from TheOmarNajera import TheOmarNajera   
 from liigabriel import Liigabriel
 from marianoabimael import Marianoabimael
+from israel391 import Israel391
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
@@ -32,9 +39,11 @@ if opcion == 1:
     objetoPasatiempo = Liigabriel()
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion == 2:
-    print("Eligio los pasatiempos del usuario 2")
+    objetoOmar = TheOmarNajera()
+    objetoOmar.imprimirPasOmar()
 elif opcion == 3:
-    print("Eligio los pasatiempos del usuario 3")
+    objetoDenilson = DenilsonIslas()
+    objetoDenilson.imprimirPasatiempos()
 elif opcion == 4:
     print("Eligio los pasatiempos del otro alumno")
 elif opcion ==5:
@@ -56,9 +65,11 @@ elif opcion ==11:
 elif opcion ==12:
     print ("Eligio los pasatiempos del usuario 12")
 elif opcion ==13:
-    print ("Eligio los pasatiempos del usuario 13")
+    objetoPasatiempo = JairTG02()
+    objetoPasatiempo.imprimirPasatiempos();
 elif opcion ==14:
-    print("Eligio los pasatiempos del usuario 14")
+    objetoPasatiempo = Israel391()
+    objetoPasatiempo.imprimirPasatiempos();
 elif opcion ==15:
     print("Eligio los pasatiempos del usuario 15")
 elif opcion ==16:
