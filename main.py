@@ -9,6 +9,7 @@ from liigabriel import Liigabriel
 from marianoabimael import Marianoabimael
 from israel391 import Israel391
 from antoniogzz90 import AntonioGzz90
+from danielcruz2906 import Danielcruz2906
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
@@ -48,7 +49,8 @@ elif opcion == 3:
 elif opcion == 4:
     print("Eligio los pasatiempos del otro alumno")
 elif opcion ==5:
-    print("Eligio los pasatiempos del usuario 5")
+    objetoPasatiempo = Danielcruz2906()
+    objetoPasatiempo.imprimirPasatiempos();
 elif opcion ==6:
     print("Eligio los pasatiempos del usuario 6")
 elif opcion ==7:   
