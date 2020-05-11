@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 from pb1598 import Pb1598
-=======
 from liigabriel import Liigabriel              
->>>>>>> 3087d7a5049c75ab8465f52ecacfa2917e67549f
+
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
