@@ -1,7 +1,12 @@
 from pb1598 import Pb1598
+<<<<<<< HEAD
 from liigabriel import Liigabriel             
 from marianoabimael import Marianoabimael
 from TheOmarNajera import TheOmarNajera   
+=======
+from liigabriel import Liigabriel
+from marianoabimael import Marianoabimael
+>>>>>>> 29b60436eb896f7d49d3c58e656de02d3ea90b94
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
