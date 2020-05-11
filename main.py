@@ -64,7 +64,7 @@ elif opcion ==11:
 elif opcion ==12:
     print ("Eligio los pasatiempos del usuario 12")
 elif opcion ==13:
-    objetoPasatiempo = JairTG02
+    objetoPasatiempo = JairTG02()
     objetoPasatiempo.imprimirPasatiempos();
 elif opcion ==14:
     print("Eligio los pasatiempos del usuario 14")
