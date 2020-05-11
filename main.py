@@ -1,4 +1,5 @@
 from pb1598 import Pb1598
+from thomasmedina01 import ThomasMedina01
 from denilsonislas import DenilsonIslas
 from liigabriel import Liigabriel 
 from jairtg02 import JairTG02             
@@ -69,20 +70,21 @@ elif opcion ==12:
     print ("Eligio los pasatiempos del usuario 12")
 elif opcion ==13:
     objetoPasatiempo = JairTG02()
-    objetoPasatiempo.imprimirPasatiempos();
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==14:
     objetoPasatiempo = Israel391()
-    objetoPasatiempo.imprimirPasatiempos();
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==15:
     print("Eligio los pasatiempos del usuario 15")
 elif opcion ==16:
     print("Eligio los pasatiempos del usuario 16")
 elif opcion ==17:
-    print("Eligio los pasatiempos del usuario 17")
+    print("Eligio los pasatiempos del usuario 17") 1
 elif opcion ==18:
     print("Eligio los pasatiempos del usuario 18")
 elif opcion ==19:
-    print("Eligio los pasatiempos del usuario 19")
+    objetoPasatiempo = ThomasMedina01()
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==20:
     print("Eligio los pasatiempos del usuario 20")
 elif opcion ==21:
