@@ -1,0 +1,5 @@
+class EdithVidales():
+    def imprimirPasatiempos(self):
+        print("Pasatiempos:")
+        print("Escuchar Música")
+        print("Jugar con Amigos")
