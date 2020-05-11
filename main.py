@@ -1,8 +1,14 @@
 from pb1598 import Pb1598
 <<<<<<< HEAD
+<<<<<<< HEAD
 from liigabriel import Liigabriel 
 from jairtg02 import JairTG02             
 
+=======
+from liigabriel import Liigabriel             
+from marianoabimael import Marianoabimael
+from TheOmarNajera import TheOmarNajera   
+>>>>>>> f0ea1977a2b698787647e3b8ada83f2e6931394a
 =======
 from liigabriel import Liigabriel
 from marianoabimael import Marianoabimael
@@ -38,7 +44,8 @@ if opcion == 1:
     objetoPasatiempo = Liigabriel()
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion == 2:
-    print("Eligio los pasatiempos del usuario 2")
+    objetoOmar = TheOmarNajera()
+    objetoOmar.imprimirPasOmar()
 elif opcion == 3:
     print("Eligio los pasatiempos del usuario 3")
 elif opcion == 4:
