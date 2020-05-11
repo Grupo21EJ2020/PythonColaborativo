@@ -1,4 +1,5 @@
-from liigabriel import Liigabriel              
+from liigabriel import Liigabriel      
+from TheOmarNajera import TheOmarNajera        
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
@@ -28,9 +29,10 @@ opcion = int(input("Elige una opcion"))
 
 if opcion == 1:
     objetoPasatiempo = Liigabriel()
-    objetoPasatiempo.imprimirPasatiempos();
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion == 2:
-    print("Eligio los pasatiempos del usuario 2")
+    objetoOmar = TheOmarNajera()
+    objetoOmar.imprimirPasOmar()
 elif opcion == 3:
     print("Eligio los pasatiempos del usuario 3")
 elif opcion == 4:
