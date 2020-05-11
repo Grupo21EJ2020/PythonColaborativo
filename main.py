@@ -1,5 +1,7 @@
-from liigabriel import Liigabriel      
-from TheOmarNajera import TheOmarNajera        
+from pb1598 import Pb1598
+from liigabriel import Liigabriel    
+from TheOmarNajera import TheOmarNajera            
+
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
@@ -44,7 +46,8 @@ elif opcion ==6:
 elif opcion ==7:   
     print("Eligio los pasatiempos del usuario 7")
 elif opcion ==8:
-    print ("Eligio los pasatiempos del usuario 8")  
+    objetoPasatiempo = Pb1598()
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==9:
     print ("Eligio los pasatiempos del usuario 9")  
 elif opcion ==10:
