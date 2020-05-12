@@ -40,6 +40,7 @@ print("20.-Pasatiempos de Andres-Delgado0")
 print("21.-Pasatiempos de Sara-Osorio")
 print("22.- Pasatiempos de Diego Antonio")
 print("23.- Pasatiempos de AlejandroRCH")
+print("24.- Pasatiempos de PaulinaM01")
 
 opcion = int(input("Elige una opcion: "))
 
@@ -105,4 +106,5 @@ elif opcion ==22:
 elif opcion ==23:
     objetoPasatiempo = AlejandroRCH()
     objetoPasatiempo.imprimirPasatiempos()
-    
+elif opcion ==24:
+    print("Eligio los pasatiempos del usuario 24")    
