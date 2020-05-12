@@ -10,6 +10,8 @@ from israel391 import Israel391
 from antoniogzz90 import AntonioGzz90
 from danielcruz2906 import Danielcruz2906
 from alejandraa07 import AlejandraA07
+from daniel29siller import Daniel_Siller
+
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
@@ -81,7 +83,8 @@ elif opcion ==16:
 elif opcion ==17:
     print("Eligio los pasatiempos del usuario 17")
 elif opcion ==18:
-    print("Eligio los pasatiempos del usuario 18")
+    objetoPasatiempo = Daniel_Siller()
+    objetoPasatiempo.Imprimirpasatiempos()
 elif opcion ==19:
     objetoPasatiempo = ThomasMedina01()
     objetoPasatiempo.imprimirPasatiempos()
