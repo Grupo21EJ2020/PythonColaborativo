@@ -16,6 +16,7 @@ from alejandroroch import AlejandroRCH
 from diegoalz import diegoalz
 from sara-osorio import Saraosorio
 from AndresDelgado0 import Andres_Delgado0
+from kozel99 import Kozel99
 
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
@@ -72,7 +73,8 @@ elif opcion ==9:
 elif opcion ==10:
     print ("Eligio los pasatiempos del usuario 10")  
 elif opcion ==11:
-    print ("Eligio los pasatiempos del usuario 11")
+    objetoPasatiempo = Kozel99()
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==12:
     objetoPasatiempo = AlejandraA07()
     objetoPasatiempo.imprimirPasatiempos()
