@@ -3,4 +3,4 @@ class Sammydeaztlan():
         print("Pasatiempos:")
         print("Ver peliculas")
         print("Jugar videojuegos")
-        print("Hacer ejercicios")
+        print("Hacer ejercicios asies")
