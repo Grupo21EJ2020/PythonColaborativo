@@ -1,4 +1,5 @@
-from liigabriel import Liigabriel              
+from liigabriel import Liigabriel    
+
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
