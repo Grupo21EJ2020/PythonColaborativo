@@ -71,7 +71,7 @@ elif opcion ==19:
 elif opcion ==20:
     print("Eligio los pasatiempos del usuario 20")
 elif opcion ==21:
-    print("Eligio los pasatiempos del usuario 21")
+     print("Eligio los pasatiempos del usuario 21")
 elif opcion ==22:
     print("Eligio los pasatiempos del usuario 22")
 elif opcion ==23:
