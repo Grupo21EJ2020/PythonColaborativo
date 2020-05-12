@@ -15,6 +15,7 @@ from ltiNacianceno import LTINacianceno
 from alejandroroch import AlejandroRCH
 from diegoalz import diegoalz
 from sara-osorio import Saraosorio
+from Andres-Delgado0 import AndresDelgado0
 
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
@@ -96,7 +97,8 @@ elif opcion ==19:
     objetoPasatiempo = ThomasMedina01()
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==20:
-    print("Eligio los pasatiempos del usuario 20")
+    objetoPasatiempo = AndresDelgado0()
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==21:
      objetoPasatiempo = Saraosorio
      objetoPasatiempo.imprimirPasatiempos()
