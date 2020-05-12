@@ -11,6 +11,7 @@ from antoniogzz90 import AntonioGzz90
 from danielcruz2906 import Danielcruz2906
 from alejandraa07 import AlejandraA07
 from daniel29siller import Daniel_Siller
+from ltiNacianceno import LTINacianceno
 
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
@@ -77,7 +78,8 @@ elif opcion ==14:
     objetoPasatiempo = Israel391()
     objetoPasatiempo.Imprimirpasatiempos()
 elif opcion ==15:
-    print("Eligio los pasatiempos del usuario 15")
+    objetoPasatiempo = LTINacianceno()
+    objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==16:
     print("Eligio los pasatiempos del usuario 16")
 elif opcion ==17:
