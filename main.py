@@ -13,6 +13,8 @@ from alejandraa07 import AlejandraA07
 from daniel29siller import Daniel_Siller
 from ltiNacianceno import LTINacianceno
 from alejandroroch import AlejandroRCH
+from diegoalz import diegoalz
+
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
@@ -38,7 +40,7 @@ print("21.-Pasatiempos de Sara-Osorio")
 print("22.- Pasatiempos de Diego Antonio")
 print("23.- Pasatiempos de AlejandroRCH")
 
-opcion = int(input("Elige una opcion"))
+opcion = int(input("Elige una opcion: "))
 
 if opcion == 1:
     objetoPasatiempo = Liigabriel()
@@ -83,7 +85,8 @@ elif opcion ==15:
 elif opcion ==16:
     print("Eligio los pasatiempos del usuario 16")
 elif opcion ==17:
-    print("Eligio los pasatiempos del usuario 17")
+    objetoPasatiempo = diegoalz()
+    objetoPasatiempo.imprimirpasatiempos()
 elif opcion ==18:
     objetoPasatiempo = Daniel_Siller()
     objetoPasatiempo.Imprimirpasatiempos()
