@@ -16,11 +16,12 @@ from daniel29siller import Daniel_Siller
 from ltiNacianceno import LTINacianceno
 from alejandroroch import AlejandroRCH
 from diegoalz import diegoalz
-from sara-osorio import Saraosorio
+from saraosorio import Saraosorio
 from AndresDelgado0 import Andres_Delgado0
 from kozel99 import Kozel99
 from sammydeaztlan import Sammydeaztlan      
 from Emmanuelk3 import Emmanuelk3
+from edgarzamoraa import Edgarzamoraa
 
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
@@ -74,7 +75,8 @@ elif opcion ==8:
     objetoPasatiempo = Pb1598()
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==9:
-    print ("Eligio los pasatiempos del usuario 9")  
+    objetoEZ = Edgarzamoraa()
+    objetoEZ.imprimirpasatiempos()
 elif opcion ==10:
     objetoPasatiempo = Sammydeaztlan()
     objetoPasatiempo.imprimirPasatiempos()
