@@ -27,7 +27,7 @@ from Emmanuelk3 import Emmanuelk3
 from edgarzamoraa import Edgarzamoraa
 from luisajasso import LuisaJasso
 from paulinam01 import PaulinaM01
-
+from Alejandro01598 import Alejandro01598
 
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
@@ -138,4 +138,5 @@ elif opcion ==26:
     objetoPasatiempo = LuisaJasso()
     objetoPasatiempo.Imprimirpasatiempos()   
 elif opcion == 27:
-    print("Eligio los pasatiempos del usuario 27")
+    objetoAlejandro01598 = Alejandro01598()
+    objetoAlejandro01598.imprimirpasatiempos()
