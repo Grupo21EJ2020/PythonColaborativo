@@ -8,12 +8,9 @@ from jairtg02 import JairTG02
 from liigabriel import Liigabriel             
 from marianoabimael import Marianoabimael
 from TheOmarNajera import TheOmarNajera   
-<<<<<<< HEAD
 from liigabriel import Liigabriel
 from marianoabimael import Marianoabimael
 from edithvidales import EdithVidales
-
-=======
 from israel391 import Israel391
 from antoniogzz90 import AntonioGzz90
 from danielcruz2906 import Danielcruz2906
@@ -29,11 +26,9 @@ from sammydeaztlan import Sammydeaztlan
 from Emmanuelk3 import Emmanuelk3
 from edgarzamoraa import Edgarzamoraa
 from luisajasso import LuisaJasso
-<<<<<<< HEAD
->>>>>>> 5484390b90ae6594b1b6e7a86d797160ce5618b6
-=======
 from paulinam01 import PaulinaM01
->>>>>>> 34571330d1976ef3209ddf74b0d9f00dd360b123
+
+
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
@@ -58,12 +53,10 @@ print("20.-Pasatiempos de Andres-Delgado0")
 print("21.-Pasatiempos de Sara-Osorio")
 print("22.- Pasatiempos de Diego Antonio")
 print("23.- Pasatiempos de AlejandroRCH")
-<<<<<<< HEAD
 print("24.- Pasatiempos de EdithVidales")
-=======
-print("24.- Pasatiempos de PaulinaM01")
-print("25.- Pasatiempos de Luisajasso")
->>>>>>> 5484390b90ae6594b1b6e7a86d797160ce5618b6
+print("25.- Pasatiempos de PaulinaM01")
+print("26.- Pasatiempos de Luisajasso")
+print("27.-Pasatiempos de Alejandro01598")
 
 opcion = int(input("Elige una opcion: "))
 
@@ -132,25 +125,17 @@ elif opcion ==22:
     objetoPasatiempo = AntonioGzz90()
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion ==23:
-<<<<<<< HEAD
+    objetoPasatiempo = AlejandroRCH()
+    objetoPasatiempo.imprimirPasatiempos()
     print("Eligio los pasatiempos del usuario 23")
 elif opcion ==24:
     objetoPasatiempo = EdithVidales()
-    objetoPasatiempo.imprimirPasatiempos()
-
-
-
-
-
-
-
-=======
-    objetoPasatiempo = AlejandroRCH()
-    objetoPasatiempo.imprimirPasatiempos()
-elif opcion ==24:
+    objetoPasatiempo.imprimirPasatiempos() 
+elif opcion ==25:
     objetoPasatiempo = PaulinaM01()
     objetoPasatiempo.Imprimirpasatiempos()
-elif opcion ==25:
+elif opcion ==26:
     objetoPasatiempo = LuisaJasso()
     objetoPasatiempo.Imprimirpasatiempos()   
->>>>>>> 5484390b90ae6594b1b6e7a86d797160ce5618b6
+elif opcion == 27:
+    print("Eligio los pasatiempos del usuario 27")
