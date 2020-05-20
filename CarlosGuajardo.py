@@ -1,4 +1,4 @@
-Class CarlosGuajardo: 
+class CarlosGuajardo (): 
      def imprimirPasatiempos(self):
              print("Pasatiempos:" )
              print("Jugar Futbol")
