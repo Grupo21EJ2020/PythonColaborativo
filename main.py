@@ -28,6 +28,7 @@ from edgarzamoraa import Edgarzamoraa
 from luisajasso import LuisaJasso
 from paulinam01 import PaulinaM01
 from Alejandro01598 import Alejandro01598
+from danielgzz import danielgzz
 
 print("Bienvenido a mi programa")
 print("1.-Pasatiempos de LiiGabriel")
@@ -57,7 +58,7 @@ print("24.- Pasatiempos de EdithVidales")
 print("25.- Pasatiempos de PaulinaM01")
 print("26.- Pasatiempos de Luisajasso")
 print("27.-Pasatiempos de Alejandro01598")
-
+print("28.- Pasatiempo de Daniel-Gzz")
 opcion = int(input("Elige una opcion: "))
 
 if opcion == 1:
@@ -140,3 +141,6 @@ elif opcion ==26:
 elif opcion == 27:
     objetoAlejandro01598 = Alejandro01598()
     objetoAlejandro01598.imprimirpasatiempos()
+elif opcion == 28:
+    objetodanielgzz= danielgzz()
+    objetodanielgzz.imprimirpasatiempos()
