@@ -61,8 +61,10 @@ print("28.- Pasatiempo de danna-borda02")
 print("29.- Pasatiempos de JonathanSauceda")
 print("30.-Pasatiempos de Alejandro01598")
 print("31.- Pasatiempos de Daniel087-pixel")
+print("32.-Pasatiempos de Miky235")
 opcion = int(input("Elige una opcion: "))
-objetoPasatiempo = Liigabriel()
+if  opcion == 1:
+    objetoPasatiempo = Liigabriel()
     objetoPasatiempo.imprimirPasatiempos()
 elif opcion == 2:
     objetoOmar = TheOmarNajera()
@@ -154,3 +156,5 @@ elif opcion == 30:
 elif opcion == 30:
     objetopasatiempo = Daniel087-pixel()
     objetopasatiempo.imprimirpasatiempos()
+elif opcion == 31:
+    print("Eligio los pasatiempos de Miky235")
