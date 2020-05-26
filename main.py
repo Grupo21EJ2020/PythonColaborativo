@@ -157,6 +157,6 @@ elif opcion == 30:
 elif opcion == 30:
     objetopasatiempo = Daniel087-pixel()
     objetopasatiempo.imprimirpasatiempos()
-elif opcion == 31:
+elif opcion == 32:
     objetoPasatiempo = MIKY235()
     objetoPasatiempo.imprimirPasatiempos()
