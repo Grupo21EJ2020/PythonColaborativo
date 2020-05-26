@@ -29,6 +29,7 @@ from paulinam01 import PaulinaM01
 from danielgzz import danielgzz
 from jonathansauceda import jonathansauceda
 from Alejandro01598 import Alejandro01598
+from Daniel087-pixel import Daniel087-pixel
 print("1.-Pasatiempos de LiiGabriel")
 print("2.-Pasatiempos de TheOmarNajera")
 print("3.-Pasatiempos de DenilsonIslas")
@@ -59,6 +60,7 @@ print("27.- Pasatiempo de Daniel-Gzz")
 print("28.- Pasatiempo de danna-borda02")
 print("29.- Pasatiempos de JonathanSauceda")
 print("30.-Pasatiempos de Alejandro01598")
+print("31.- Pasatiempos de Daniel087-pixel")
 opcion = int(input("Elige una opcion: "))
 objetoPasatiempo = Liigabriel()
     objetoPasatiempo.imprimirPasatiempos()
@@ -148,4 +150,7 @@ elif opcion == 29:
     objetopasatiempo.imprimirpasatiempos()
 elif opcion == 30:
     objetopasatiempo = Alejandro01598()
+    objetopasatiempo.imprimirpasatiempos()
+elif opcion == 30:
+    objetopasatiempo = Daniel087-pixel()
     objetopasatiempo.imprimirpasatiempos()

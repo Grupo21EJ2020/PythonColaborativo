@@ -1,4 +1,4 @@
-class Daniel087-pixel ():
+class Daniel087-pixel():
     def imprimirPasatiempos(self):
         print ("Pasatiempos")
         print("Jugar Skullgirls")
