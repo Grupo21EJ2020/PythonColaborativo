@@ -26,7 +26,6 @@ from Emmanuelk3 import Emmanuelk3
 from edgarzamoraa import Edgarzamoraa
 from luisajasso import LuisaJasso
 from paulinam01 import PaulinaM01
-from Alejandro01598 import Alejandro01598
 from danielgzz import danielgzz
 from jonathansauceda import jonathansauceda
 print("1.-Pasatiempos de LiiGabriel")
