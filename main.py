@@ -158,4 +158,5 @@ elif opcion == 30:
     objetopasatiempo = Daniel087-pixel()
     objetopasatiempo.imprimirpasatiempos()
 elif opcion == 31:
-    print("Eligio los pasatiempos de Miky235")
+    objetoPasatiempo = MIKY235()
+    objetoPasatiempo.imprimirPasatiempos()
