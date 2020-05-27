@@ -1,0 +1,8 @@
+clase  DiegoRobles
+    def  imprimirPasatiempos ( Self ):
+    imprimir ( "Pasatiempos:" )
+    imprimir ( "Jugar PS4" )
+    imprimir ( "Ir a plazas comerciales" )
+    imprimir ( "Escuchar musica" )
+    
+    
